@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite File for Maven">
+  <test name="Test Maven Test cases">
+    <packages>
+    <package name = "Log4j_sampletests.*" />
+    </packages>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
