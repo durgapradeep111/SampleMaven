@@ -1,4 +1,4 @@
-package Log4j_sampletests;
+package log4j_sampletests;
 
 import java.util.concurrent.TimeUnit;
 
